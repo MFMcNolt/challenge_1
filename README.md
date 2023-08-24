@@ -10,16 +10,15 @@ I learnt how to understand semantic HTML elements, the Scout Rule, refactoring, 
 
 ## Installation
 
-N/A
+https://mfmcnolt.github.io/challenge_1/
 
 ## Usage
 
 Please see screenshot to site:
 
 ```md
-    ![alt text](assets/images/screenshot.png)
+    (assets/images/screenshot.png)
     ```
-N/A
 
 ## Credits
 
