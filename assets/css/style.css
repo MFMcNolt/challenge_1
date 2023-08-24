@@ -74,42 +74,10 @@ p {
 }
 */
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-aside {
-    display: flexbox;
-    justify-content: right;
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-/*consolidated styling for these elements*/
-.benefit {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/*consolidated styling for these elements*/
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/*consolidated styling for these elements*/
-img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 /*consolidated styling for these elements*/
@@ -140,6 +108,40 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+aside {
+    display: flexbox;
+    justify-content: right;
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/*consolidated styling for these elements*/
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/*consolidated styling for these elements*/
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/*consolidated styling for these elements*/
+.benefitimg {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+
 
 footer {
     padding: 30px;
