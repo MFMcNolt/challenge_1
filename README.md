@@ -8,16 +8,17 @@ I learnt how to understand semantic HTML elements, the Scout Rule, refactoring, 
 
 
 ## Installation
+In order to utilize page, you can follow this link below:
 
 https://mfmcnolt.github.io/challenge_1/
 
 ## Usage
 
+The website allows you to navigate their service in the navigation bar. 
+
 Please see screenshot to site:
 
 ![alt text](assets/images/Screenshot.png)
-
-
 
 ## Credits
 
