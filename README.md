@@ -15,9 +15,9 @@ https://mfmcnolt.github.io/challenge_1/
 
 Please see screenshot to site:
 
-```md
-    (assets/images/screenshot.png)
-    ```
+![alt text](assets/images/screenshot.png)
+
+
 
 ## Credits
 
